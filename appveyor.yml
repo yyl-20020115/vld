@@ -29,6 +29,10 @@ environment:
   - VldStackWalkMethod: safe
     Toolset: v140_xp
     Solution: vld_vs14.sln
+  - VldStackWalkMethod: safe
+    Toolset: v143
+    Solution: vld_vs17.sln
+
 
   - VldStackWalkMethod: fast
     Toolset: v90
@@ -48,6 +52,10 @@ environment:
   - VldStackWalkMethod: fast
     Toolset: v140_xp
     Solution: vld_vs14.sln
+  - VldStackWalkMethod: fast
+    Toolset: v143
+    Solution: vld_vs17.sln
+
 
 platform:
   - Win32
