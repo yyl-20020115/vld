@@ -1,4 +1,4 @@
-# Visual Leak Detector (Support Visual Studio 2019 16.7)
+# Visual Leak Detector (Support Visual Studio 2022 17.10)
 
 ## Introduction
 
